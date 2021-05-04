@@ -1,0 +1,57 @@
+body{
+    background-color: #eae8dc
+    ;
+    color: black;
+    font-family: 'Sanchez', serif;    
+    
+}
+
+.btn{
+    background-color: #c7493a;
+}
+
+#content{
+    background-color: #c5cbe3;
+    height: 500px;
+}
+
+
+.noteList{
+    
+    
+    background-color: #e88073
+    ;
+    
+
+    
+    min-height: 250px;
+    margin: 1px;
+    word-wrap: break-word;
+  
+    
+   
+    
+}
+
+.display-4{
+    font-family: 'Monoton', cursive;
+    color: #e85a50
+    ;
+    ;
+}
+
+.h{
+    font-weight: bolder;
+}
+
+footer{
+    background-color: #8e8d89;
+}
+#title{
+    background-color:#c5cbe3 ;
+}
+
+.btnView{
+    background-color: #8e8d89
+    ;
+}
